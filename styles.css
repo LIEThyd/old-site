@@ -134,14 +134,8 @@ section h1 {
 #main-text {
   max-width: 80%;
   margin: auto;
-  
 }
-#clg{
-  color: bisque;
-}
-#clg:hover{
-  color: #000;
-}
+
 
 @media (min-width: 61.26em) {
   html {
