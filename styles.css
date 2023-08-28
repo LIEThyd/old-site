@@ -139,9 +139,7 @@ section h1 {
 #clg{
   color: bisque;
 }
-#clg:hover{
-  color: #000;
-}
+
 
 @media (min-width: 61.26em) {
   html {
